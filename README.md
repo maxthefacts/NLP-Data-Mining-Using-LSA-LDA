@@ -1,5 +1,3 @@
-# Consumer-Fraud-Detection-with-Tweets-
-=======
 # NLP-Data-Mining-Using-LSA-LDA
 
 ## Executive Summary
